@@ -1,12 +1,6 @@
 ## Hello World, I'm Thiago Barbosa!
  
 
-:computer: I'm Full-stack Ruby on Rails Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning JavaScript.
-
 <!-- 
  <div>
   <a href="https://github.com/thiagobarbosa48">
